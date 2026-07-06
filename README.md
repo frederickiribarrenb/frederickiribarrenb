@@ -99,9 +99,9 @@ Tengo experiencia trabajando en proyectos full-stack, con un fuerte enfoque en l
 
 ¿Tienes una oportunidad interesante o quieres colaborar en un proyecto? ¡Me encantaría hablar contigo!
 
-- 📧 **Email**: [tu-email@example.com](frederickiribarren@gmail.com)
-- 💼 **LinkedIn**: [Tu Perfil](https://www.linkedin.com/in/frederick-iribarren-barraza-8a53a8216/)
-- 🌐 **Portafolio**: [tu-sitio-web.com]()
+- 📧 **Email**: [frederickiribarren@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/frederick-iribarren-barraza-8a53a8216/]
+- 🌐 **Portafolio**: [tu-sitio-web.com]
 
 ---
 
