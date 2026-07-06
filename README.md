@@ -1,7 +1,5 @@
 ## ¡Hola! 👋 Soy Frederick
 
-### Desarrollador Junior | Ingeniero en Programación
-
 ---
 
 ## 🎓 Sobre mí
@@ -103,16 +101,15 @@ Tengo experiencia trabajando en proyectos full-stack, con un fuerte enfoque en l
 
 ¿Tienes una oportunidad interesante o quieres colaborar en un proyecto? ¡Me encantaría hablar contigo!
 
-- 📧 **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- 💼 **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- 🌐 **Portafolio**: [tu-sitio-web.com](https://tu-sitio-web.com)
-- 🐦 **Twitter**: [@tu-usuario](https://twitter.com/tu-usuario)
+- 📧 **Email**: [tu-email@example.com](frederickiribarren@gmail.com)
+- 💼 **LinkedIn**: [Tu Perfil](https://www.linkedin.com/in/frederick-iribarren-barraza-8a53a8216/)
+- 🌐 **Portafolio**: [tu-sitio-web.com]()
 
 ---
 
 ## ⚡ Dato Curioso
 
-Cuando no estoy codificando, disfruto de [tu hobby], [otro hobby] y explorar nuevas tecnologías emergentes. 🚀
+Cuando no estoy codificando, disfruto de Videos juegos, Estudiar y explorar nuevas tecnologías emergentes. 🚀
 
 ---
 
