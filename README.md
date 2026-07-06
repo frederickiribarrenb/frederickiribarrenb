@@ -40,50 +40,15 @@ Tengo experiencia trabajando en proyectos full-stack, con un fuerte enfoque en l
 
 ---
 
-## 💼 Experiencia
-
-### [Nombre de tu empresa/proyecto] | [Fecha]
-**Descripción**: Breve descripción de tu rol y responsabilidades principales.
-- 🔹 Logro o responsabilidad principal
-- 🔹 Logro o responsabilidad principal
-- 🔹 Tecnologías utilizadas
-
----
-
 ## 📁 Proyectos Destacados
 
-### 🌟 [Nombre del Proyecto 1](enlace-al-repositorio)
-**Descripción**: Descripción concisa del proyecto y su propósito.
-- **Tecnologías**: React, Node.js, PostgreSQL
+### 🌟 App babyShower. https://github.com/frederickiribarrenb/website-planner-event
+**Descripción**: Sitio para la creación de evento, proyecto que forma parte del MVC del Instituto Profesional San Sebastian
+- **Tecnologías**: Laravel 12, Node.js, MySql
 - **Características principales**: 
-  - Característica 1
-  - Característica 2
-  - Característica 3
-
-### 🌟 [Nombre del Proyecto 2](enlace-al-repositorio)
-**Descripción**: Descripción concisa del proyecto y su propósito.
-- **Tecnologías**: Python, Django, SQLite
-- **Características principales**: 
-  - Característica 1
-  - Característica 2
-
----
-
-## 📚 Actualmente Estoy Aprendiendo
-
-- 🌱 **Cloud Computing** (AWS / Google Cloud)
-- 🌱 **Testing y QA** (Jest, Pytest)
-- 🌱 **DevOps** (CI/CD, Kubernetes)
-- 🌱 **Microservicios**
-
----
-
-## 🤝 Estoy Interesado En
-
-- 💡 Colaborar en proyectos open-source
-- 💡 Resolver problemas complejos con código elegante
-- 💡 Mentoría y aprendizaje continuo
-- 💡 Trabajar en equipo y compartir conocimientos
+  - Evitar regalos repetidos
+  - Control lista de Invitados
+  - Personalizacion de la invitación
 
 ---
 
@@ -100,8 +65,8 @@ Tengo experiencia trabajando en proyectos full-stack, con un fuerte enfoque en l
 ¿Tienes una oportunidad interesante o quieres colaborar en un proyecto? ¡Me encantaría hablar contigo!
 
 - 📧 **Email**: frederickiribarren@gmail.com
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/frederick-iribarren-barraza-8a53a8216/]
-- 🌐 **Portafolio**: [tu-sitio-web.com]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/frederick-iribarren-barraza-8a53a8216/
+- 🌐 **Portafolio**: 
 
 ---
 
